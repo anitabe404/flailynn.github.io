@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: The Gazillionth Programming Blog
 header-img: img/home-bg.png
 email: amadamspr@gmail.com
 copyright_name: flailynn
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Follow Anita as she learns to code.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  flailynn
